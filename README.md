@@ -1,4 +1,2 @@
-
-
 # Student
 Padala Shanmuka Reddy 
